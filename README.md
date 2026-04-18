@@ -1,4 +1,4 @@
-# 🛡️ Hệ thống giám sát an ninh mạng lai NIDS/HIDS
+# 🛡️ Anomaly Detection and Prevention in Information Systems Using IDS/IPS and Machine Learning
 
 > **README tổng quát cho đề tài triển khai giám sát kết hợp Wazuh + Suricata + pfSense + Machine Learning**  
 > Tài liệu này được viết theo hướng **dễ đọc, dễ trình bày trong báo cáo và bám sát code hiện có**.
